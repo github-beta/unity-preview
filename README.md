@@ -2,9 +2,11 @@
 
 Welcome to the GitHub for Unity preview!  
 
-The GitHub for Unity plugin brings Git and GitHub into Unity, integrating source control into your work with friendly and accessible tools and workflows.
+The GitHub for Unity extension brings Git and GitHub into Unity, integrating source control into your work with friendly and accessible tools and workflows.
 
 This software is currently on [Early Access](https://developer.github.com/early-access/) and is alpha quality. Please check the release notes for bugs and known issues, and make sure you have backups of your work. Use with care.
+
+When this software reached beta, we will be open sourcing it.
 
 For any questions or bug reports, you can [open an issue](https://github.com/github-beta/unity-preview/issues/new) in our issue tracker, or send email to [unity@github.com](mailto:unity@github.com).
 
@@ -16,7 +18,7 @@ For any questions or bug reports, you can [open an issue](https://github.com/git
 
 ## Installing
 
-To install the extension, [download the package](https://github.com/github-beta/unity-preview/releases/tag/v0.8-alpha) from [the releases page](https://github.com/github/UnityInternal/releases) and double click on it.
+To install the extension, [download the package](https://github.com/github-beta/unity-preview/releases/tag/v0.9.1-alpha) from [the releases page](https://github.com/github/UnityInternal/releases) and double click on it.
 
 ## Opening the GitHub window
 
