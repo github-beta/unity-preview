@@ -1,5 +1,7 @@
 # GitHub for Unity
 
+[![Join the chat at https://gitter.im/unity-preview/Lobby](https://badges.gitter.im/unity-preview/Lobby.svg)](https://gitter.im/unity-preview/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the GitHub for Unity preview!  
 
 The GitHub for Unity extension brings Git and GitHub into Unity, integrating source control into your work with friendly and accessible tools and workflows.
