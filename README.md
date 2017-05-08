@@ -16,6 +16,7 @@ For any questions or bug reports, you can [open an issue](https://github.com/git
 [Credits](CREDITS.txt)
 
 [![unity-screenshot](img/screenshot-small.png)](img/screenshot.png)
+![](img/empty-pixel.gif)
 
 
 ## Installing
