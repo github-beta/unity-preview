@@ -20,7 +20,7 @@ For any questions or bug reports, you can [open an issue](https://github.com/git
 
 ## Installing
 
-To install the extension, [download the package](https://github.com/github-beta/unity-preview/releases/tag/v0.10-alpha) from [the releases page](https://github.com/github/UnityInternal/releases) and double click on it.
+To install the extension, [download the package](https://github.com/github-beta/unity-preview/releases/tag/v0.11-alpha) from [the releases page](https://github.com/github/UnityInternal/releases) and double click on it.
 
 ## Opening the GitHub window
 
